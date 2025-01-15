@@ -40,15 +40,3 @@ Convidamos você, ouvinte, a compartilhar suas experiências com IA Generativa. 
 
 **Finalização:**  
 Fechamos com uma provocação: "Na era da IA generativa, será que a verdadeira criatividade é saber fazer perguntas melhores do que as máquinas podem responder?"  
-
-
-
-
-## 🛠️ Instruções de execução
-
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
-
-- 🤖 1. Use os prompts de roteiro no `chagpt`
-- 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
-- 🤖 3. Use os prompts de artes no `midjourney`
-
